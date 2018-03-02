@@ -151,10 +151,12 @@
 ![](http://upload-images.jianshu.io/upload_images/7505161-8861f43f8ca84de8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 3.最终的测试结果
+
 ![](http://upload-images.jianshu.io/upload_images/7505161-eaa16210cd2f310b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 wait()的作用就是释放锁,同时本线程进入阻塞队列.
 
 ## 参考资料
+
 [IDEA 下使用debug](https://www.linuxidc.com/Linux/2017-09/146772.htm)
 
