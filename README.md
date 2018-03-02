@@ -155,4 +155,6 @@
 
 wait()的作用就是释放锁,同时本线程进入阻塞队列.
 
+## 参考资料
 [IDEA 下使用debug](https://www.linuxidc.com/Linux/2017-09/146772.htm)
+
